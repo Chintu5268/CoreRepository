@@ -1,3 +1,4 @@
+package Friday2Codes;
 public class Switch {
   
     public static void main(String[] args) {

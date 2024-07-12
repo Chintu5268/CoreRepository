@@ -1,3 +1,4 @@
+package Friday2Codes;
 public class ReturnString {
   public String geString(String name){
     return name;
